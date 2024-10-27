@@ -1,0 +1,8 @@
+muzakir
+muzakir@auto.scan
+{{995+6}}
+' testingsqli
+/etc/passwd
+<svg onload=alert('muzaxss{{30-5}}')>
+http://127.0.0.1:8000/
+http://localhost
